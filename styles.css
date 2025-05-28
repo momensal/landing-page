@@ -18,6 +18,10 @@ body {
     background-color: #1F2937;
 }
 
+.section.three {
+    background-color: #E5E7EB;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
