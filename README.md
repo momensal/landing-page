@@ -14,4 +14,4 @@ This landing page includes:
 
 ## Credits
 
-- Hero Image by [Finde Zukunft](https://unsplash.com/@johndoe) on [Unsplash](https://unsplash.com/)
+- Hero Image by [Finde Zukunft](https://unsplash.com/@findezukunft) on [Unsplash](https://unsplash.com/)

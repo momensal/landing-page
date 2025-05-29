@@ -10,7 +10,13 @@ body {
 }
 
 .content {
-    margin: 0 200px;
+    margin: 0 250px;
+}
+
+.headline {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900;
 }
 
 .section.one,
@@ -32,8 +38,47 @@ body {
     display: flex;
     list-style-type: none;
     gap: 20px;
+    font-size: 18px;
 }
 
 a {
     text-decoration: none;
+    color: #E5E7EB;
+}
+
+.hero {
+    padding: 100px 0;
+    display: flex;
+}
+
+.hero-left {
+    margin: 10px 0;
+    width: 500px;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero .text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.sign-up1 {
+    margin-top: 10px;
+    width: 125px;
+    height: 35px;
+    font-weight: bold;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 0;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.hero img {
+    margin-left: 50px;
 }
