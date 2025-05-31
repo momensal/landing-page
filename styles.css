@@ -174,3 +174,11 @@ a {
     border-radius: 10px;
     font-size: 18px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    padding: 50px 0;
+}
