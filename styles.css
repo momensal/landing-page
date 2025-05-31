@@ -138,3 +138,39 @@ a {
     margin-right: 5px;
     margin-top: 5px;
 }
+
+.action-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0;
+    padding: 50px 125px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.call {
+    font-size: 24px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.act-left {
+    width: 900px;
+}
+
+.act-left .text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.sign-up2 {
+    width: 125px;
+    height: 35px;
+    font-weight: bold;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 10px;
+    font-size: 18px;
+}
